@@ -59,7 +59,7 @@
 				<Lan size={iconSize} color={iconColor} />
 			</button>
 			<button>
-				<img src="/src/resources/qr-code.png" alt="QR-Code" />
+				<img src="/images/qr-code.png" alt="QR-Code" />
 			</button>
 		</div>
 	</div>
