@@ -31,7 +31,7 @@
 <body class="md:grid place-content-center md:w-screen md:h-screen bg-slate-500">
 	<div class="grid w-screen place-content-center">
 		<div class="grid grid-cols-2 md:grid-cols-4 bg-slate-700 max-w-5xl drop-shadow-2xl">
-			<button class={tvItemStyling} on:click={() => fetch(PUBLIC_TV_ADDRESS + '/source')}>
+			<button class={tvItemStyling} on:click={() => fetch(PUBLIC_TV_ADDRESS + '/source/double')}>
 				<Import size={iconSize} color={iconColor} />
 			</button>
 
